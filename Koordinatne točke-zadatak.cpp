@@ -6,6 +6,8 @@ using namespace std;
 
 
 int main() { 
+
+//leonard
 	double x1,x2,y1,y2,a,b,c,d,UT;
 	cout<<"Unesene koordinate za tocku A su: ";
 	cin>>x1>>y1;
